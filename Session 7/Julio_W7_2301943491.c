@@ -1,3 +1,9 @@
+/*
+Written by : Julio Rivaldo Gunawan
+NIM : 2301943491
+Topic : Circular Dobly Linked List
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
