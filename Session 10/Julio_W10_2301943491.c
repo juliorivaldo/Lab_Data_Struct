@@ -1,3 +1,9 @@
+/*
+Written by : Julio Rivaldo G
+NIM : 2301943491
+Topic : Graph
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
